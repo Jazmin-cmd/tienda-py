@@ -1,34 +1,28 @@
 :root {
-  /* Paleta 60-30-10 */
-  --color-primario: #1a1a2e;      /* 60% - fondo oscuro elegante */
-  --color-secundario: #f5f0eb;    /* 30% - textos y estructuras */
-  --color-acento: #c9a84c;        /* 10% - botones CTA, dorado */
+  --color-primario: #FAFAF9;
+  --color-secundario: #1C1C1C;
+  --color-acento: #C17B5C;
 
-  /* Tipografías */
-  --fuente-titulo: 'Playfair Display', serif;
+  --fuente-titulo: 'Cormorant Garamond', serif;
   --fuente-texto: 'Inter', sans-serif;
 
-  /* Tamaños */
   --texto-xs: 0.75rem;
   --texto-sm: 0.875rem;
   --texto-md: 1rem;
   --texto-lg: 1.25rem;
   --texto-xl: 1.5rem;
   --texto-2xl: 2rem;
-  --texto-3xl: 3rem;
+  --texto-3xl: 2.5rem;
 
-  /* Espaciados */
   --espacio-sm: 0.5rem;
   --espacio-md: 1rem;
   --espacio-lg: 2rem;
   --espacio-xl: 4rem;
 
-  /* Bordes */
   --radio-sm: 4px;
   --radio-md: 8px;
   --radio-lg: 16px;
 
-  /* Sombras */
-  --sombra-sm: 0 2px 8px rgba(0,0,0,0.1);
-  --sombra-md: 0 4px 16px rgba(0,0,0,0.2);
+  --sombra-sm: 0 2px 8px rgba(0,0,0,0.06);
+  --sombra-md: 0 4px 16px rgba(0,0,0,0.1);
 }
