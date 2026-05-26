@@ -1,5 +1,3 @@
-const API_URL = 'http://localhost:8080/api';
-
 async function cargarProductos() {
   const grilla = document.getElementById('grilla');
   const cargando = document.getElementById('cargando');
